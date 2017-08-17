@@ -2,3 +2,7 @@ D:\vs2010\project\DP_Learning\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.ex
 D:\vs2010\project\DP_Learning\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.pdb
 D:\vs2010\project\DP_Learning\FactoryPatternDemo\obj\x86\Debug\FactoryPatternDemo.exe
 D:\vs2010\project\DP_Learning\FactoryPatternDemo\obj\x86\Debug\FactoryPatternDemo.pdb
+D:\vs2010\github\DPL\DP_Learning\FactoryPatternDemo\obj\x86\Debug\FactoryPatternDemo.exe
+D:\vs2010\github\DPL\DP_Learning\FactoryPatternDemo\obj\x86\Debug\FactoryPatternDemo.pdb
+D:\vs2010\github\DPL\DP_Learning\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.exe
+D:\vs2010\github\DPL\DP_Learning\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.pdb

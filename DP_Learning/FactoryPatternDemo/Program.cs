@@ -16,14 +16,14 @@ namespace FactoryPatternDemo
 
         public static void TestCircle()
         {
-            ShapeFactory shapeFactory = new ShapeFactory(new Circle());
-            shapeFactory.Draw();
+            IShape circle = ShapeFactory.GetShape("Circle");
+            circle.draw();
         }
 
         public static void TestRectangle()
         {
-            ShapeFactory shapeFactory = new ShapeFactory(new Rectangle());
-            shapeFactory.Draw();
+            IShape rectangle = ShapeFactory.GetShape("Rectangle");
+            rectangle.draw();
         }
     }
 }

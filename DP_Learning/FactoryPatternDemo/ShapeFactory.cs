@@ -7,15 +7,21 @@ namespace FactoryPatternDemo
 {
     public class ShapeFactory
     {
-        private IShape _shape;
-        public ShapeFactory(IShape shape)
+        public static IShape GetShape(string shapeType)
         {
-            this._shape = shape;
-        }
-
-        public void Draw()
-        {
-            this._shape.draw();
+            if (shapeType == "")
+            {
+                return null;
+            }
+            if(shapeType.Equals("Circle"))
+            {
+                return new Circle();
+            }
+            if (shapeType.Equals("Rectangle"))
+            {
+                return new Rectangle();
+            }
+            return null;
         }
     }
 }
