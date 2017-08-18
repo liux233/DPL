@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternDemo", "FactoryPatternDemo\FactoryPatternDemo.csproj", "{234A8C96-C9B3-4869-A266-D10E0086C096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPatternDemo", "AbstractFactoryPatternDemo\AbstractFactoryPatternDemo.csproj", "{107F59F3-D4F4-4324-B209-B3B12727FB43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{234A8C96-C9B3-4869-A266-D10E0086C096}.Debug|x86.Build.0 = Debug|x86
 		{234A8C96-C9B3-4869-A266-D10E0086C096}.Release|x86.ActiveCfg = Release|x86
 		{234A8C96-C9B3-4869-A266-D10E0086C096}.Release|x86.Build.0 = Release|x86
+		{107F59F3-D4F4-4324-B209-B3B12727FB43}.Debug|x86.ActiveCfg = Debug|x86
+		{107F59F3-D4F4-4324-B209-B3B12727FB43}.Debug|x86.Build.0 = Debug|x86
+		{107F59F3-D4F4-4324-B209-B3B12727FB43}.Release|x86.ActiveCfg = Release|x86
+		{107F59F3-D4F4-4324-B209-B3B12727FB43}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
