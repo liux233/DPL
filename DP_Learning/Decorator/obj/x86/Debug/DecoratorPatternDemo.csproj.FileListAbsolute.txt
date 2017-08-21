@@ -1,0 +1,4 @@
+D:\vs2010\github\DPL\DP_Learning\Decorator\bin\Debug\Decorator.exe
+D:\vs2010\github\DPL\DP_Learning\Decorator\bin\Debug\Decorator.pdb
+D:\vs2010\github\DPL\DP_Learning\Decorator\obj\x86\Debug\Decorator.exe
+D:\vs2010\github\DPL\DP_Learning\Decorator\obj\x86\Debug\Decorator.pdb
