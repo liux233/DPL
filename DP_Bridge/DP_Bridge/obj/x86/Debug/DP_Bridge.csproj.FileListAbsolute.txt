@@ -1,0 +1,4 @@
+D:\vs2010\project\DP_Bridge\DP_Bridge\bin\Debug\DP_Bridge.exe
+D:\vs2010\project\DP_Bridge\DP_Bridge\bin\Debug\DP_Bridge.pdb
+D:\vs2010\project\DP_Bridge\DP_Bridge\obj\x86\Debug\DP_Bridge.exe
+D:\vs2010\project\DP_Bridge\DP_Bridge\obj\x86\Debug\DP_Bridge.pdb
