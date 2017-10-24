@@ -1,0 +1,4 @@
+D:\vs2010\project\DP_Command\DP_Command\bin\Debug\DP_Command.exe
+D:\vs2010\project\DP_Command\DP_Command\bin\Debug\DP_Command.pdb
+D:\vs2010\project\DP_Command\DP_Command\obj\x86\Debug\DP_Command.exe
+D:\vs2010\project\DP_Command\DP_Command\obj\x86\Debug\DP_Command.pdb
